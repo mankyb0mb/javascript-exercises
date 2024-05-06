@@ -24,5 +24,7 @@ const sumAll = function(x, y) {
     return sum;
 };
 
+console.log(sumAll(0,5))
+
 // Do not edit below this line
 module.exports = sumAll;
